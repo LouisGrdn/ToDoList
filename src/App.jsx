@@ -64,13 +64,6 @@ export default function App() {
       </ScrollView>
     </View>
   )
-
-  /* return (
-    <View style={styles.container}>
-      <AddingArea />
-      <ToDoItems />
-    </View> 
-  ); */
 }
 
 const styles = StyleSheet.create({
